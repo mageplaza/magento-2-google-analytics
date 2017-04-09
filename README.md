@@ -10,6 +10,18 @@ Google Analytics extension is provided in order to help Magento stores use Googl
 - Objective and detailed reports
 - Easy to understand and analysis
 
+
+## How to install
+
+### via composer
+
+```
+composer require mageplaza/magento-2-google-analytics
+php bin/magento setup:upgrade
+```
+
+
+
 100% Free Google Analytics Extension
 ---------------------------------------
 Store owners have rights to configure easily and customize in the way you need.
