@@ -111,3 +111,34 @@ Trace Debugging will show extra information on the console with the full trackin
 - Easy to custom
 - Well-done user guide
 - Life-time support and update
+
+
+CHANGELOG 
+
+
+### Google Analytics
+Released on  2017-06-28
+Release notes: 
+
+- Update admin configuration
+- Update composer package
+
+
+
+### Google Analytics v1.0.1
+Released on  2017-04-24
+Release notes: 
+
+- Edit composer.json to require mageplazamodule-core instead of mageplazacore-m2
+
+
+
+### Google Analytics v1.0.0
+Released on  2017-04-09
+Release notes: 
+
+- Release first version
+
+
+
+
