@@ -12,7 +12,7 @@ Google Analytics extension is provided in order to help Magento stores use Googl
 
 ## Documentation
 
-- Installation guide: https://docs.mageplaza.com/kb/installation.html
+- Installation guide: https://www.mageplaza.com/install-magento-2-extension/
 - Download from our Live site: https://www.mageplaza.com/magento-2-google-analytics-pro/
 - Get Support: https://github.com/mageplaza/magento-2-google-analytics/issues
 - Contribute on Github: https://github.com/mageplaza/magento-2-google-analytics/
