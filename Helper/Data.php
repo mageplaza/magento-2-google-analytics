@@ -19,17 +19,6 @@ class Data extends AbstractData
 	protected $storeManager;
 	protected $objectManager;
 
-	public function __construct(
-		Context $context,
-		ObjectManagerInterface $objectManager,
-		StoreManagerInterface $storeManager
-	)
-	{
-		$this->objectManager = $objectManager;
-		$this->storeManager  = $storeManager;
-		parent::__construct($context);
-	}
-
 	public function getConfigValue($field, $storeId = null)
 	{
 		return $this->scopeConfig->getValue(
