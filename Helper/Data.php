@@ -25,9 +25,7 @@ class Data extends AbstractData
 		StoreManagerInterface $storeManager
 	)
 	{
-		$this->objectManager = $objectManager;
-		$this->storeManager  = $storeManager;
-		parent::__construct($context);
+		parent::__construct($context, $objectManager, $storeManager);
 	}
 
 	public function getConfigValue($field, $storeId = null)
