@@ -1,4 +1,4 @@
-# Magento 2 Google Analytics Universial 
+# Magento 2 Google Analytics Universal 
 
 Google Analytics is the free Google service and almost webmasters rely on its role in evaluating the effectiveness of online marketing campaign specifically as the traffic to website and conversion rate into customers in exact period of time. 
 
