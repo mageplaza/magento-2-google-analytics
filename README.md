@@ -28,11 +28,11 @@ A: Read solution: https://github.com/mageplaza/module-core/issues/3
 #### Q: My site is down
 A: Please follow this guide: https://www.mageplaza.com/blog/magento-site-down.html
 
-## How to install
+## How to install Google Analytics Ecommerce
 
 ### Method 1: Install ready-to-paste package
 
-- Download the latest version at [Mageplaza Blog for Magento 2](https://www.mageplaza.com/magento-2-blog/)
+- Download the latest version at [Google Analytics Enhanced Ecommerce tracking for Magento 2](https://www.mageplaza.com/magento-2-google-analytics-pro/)
 -  [Installation guide](https://docs.mageplaza.com/kb/installation.html)
 
 ### Method 2: Install via composer
@@ -83,7 +83,7 @@ Store owners have rights to configure easily and customize in the way you need.
 <img src="https://lh6.googleusercontent.com/V5g-4BHenEHUulvHPYSFKnQV-r8K0zvSzo4vLArQqxpPRzMXT_lmiXTyWJa-cRlLHiQU6XQ8unwSO0tRjr_1CXFyz_hN9MtV1IHX6e_UJSw299so5L5tRA3FapEyo1Uvl-e0xXAH" alt="open source">
 
 
-### Additional tracking ID
+### Additional Ecommerce tracking ID
 
 Beside the main tracking ID from Google Analytics registration, Magento supports the second tracking ID which allows getting the analytics at the same time without any delay.
 <img src="https://lh5.googleusercontent.com/GAriOpvu0psH_y4SpEXQLazf51sXwN1aOzAMAxkXdj1JbxbqG5uDBhNpeloywSvV_5dqDvD2x3y3MbpaEUv5BvcQ6AVteqRPtkmrbteMGOhJQ_JJuizVDIi90uN1bjs71tNIQ-WA" alt="Additional tracking ID" />
@@ -115,10 +115,20 @@ Trace Debugging will show extra information on the console with the full trackin
 - Life-time support and update
 
 
-CHANGELOG 
+## CHANGELOG 
+### Google Analytics Enhanced Ecommerce v1.0.3
+Released on  2019-03-19
+Release notes: 
 
+- Update to Google Analytics Enhanced Ecommerce
 
-### Google Analytics
+### Google Analytics Enhanced Ecommerce v1.0.3
+Released on  2017-08-15
+Release notes: 
+
+- Hotfix compile issue
+
+### Google Analytics v1.0.2
 Released on  2017-06-28
 Release notes: 
 
