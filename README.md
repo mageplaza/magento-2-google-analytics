@@ -1,9 +1,15 @@
-# Magento 2 Google Analytics Universal 
+# Magento 2 Google Analytics Universal - Enchanced eCommerce
 
-Google Analytics is the free Google service and almost webmasters rely on its role in evaluating the effectiveness of online marketing campaign specifically as the traffic to website and conversion rate into customers in exact period of time. 
+**Google Analytics** is the free Google service and almost webmasters rely on its role in evaluating the effectiveness of online marketing campaign specifically as the traffic to website and conversion rate into customers in exact period of time. 
 
 Google Analytics extension is provided in order to help Magento stores use Google Analytics functionality more easily and conveniently. 
 
+
+## Announcement
+
+**This extension has rebuilt, [learn more here](https://www.mageplaza.com/magento-2-google-analytics-pro/)**
+
+## Highlight features
 
 - Support many types of chart as Pie Chart, Line Chart and Bar Chart
 - Objective and detailed reports
