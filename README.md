@@ -1,29 +1,34 @@
-# Magento 2 Google Analytics Universal - Enchanced eCommerce
+# Mageplaza Google Analytics 4 - Enchanced eCommerce
 
-**Google Analytics** is the free Google service and almost webmasters rely on its role in evaluating the effectiveness of online marketing campaign specifically as the traffic to website and conversion rate into customers in exact period of time. 
+Google Analytics 4 (GA4), launched in October 2020, is a free Google service widely relied upon by webmasters to evaluate the effectiveness of online marketing campaigns, track website traffic, and measure conversion rates over specific periods.
 
-Google Analytics extension is provided in order to help Magento stores use Google Analytics functionality more easily and conveniently. 
-
+With [Mageplaza Google Analytics 4 Extension for Magento 2](https://www.mageplaza.com/magento-2-google-analytics-pro/), store owners can easily integrate GA4 into their Magento store, making it more convenient to access and leverage Google Analytics’ powerful insights. This extension simplifies setup, allowing you to track key metrics and optimize your online store’s performance effortlessly.
 
 ## Announcement
 
-==> **This extension has rebuilt, [learn more here](https://www.mageplaza.com/magento-2-google-analytics-pro/)**
+This **free version** of the Mageplaza Google Analytics 4 extension is **no longer supported** and may come with unwanted bugs and outdated features. 
+
+But don’t worry! The new version on our live site now supports the latest GA4, Google Tag Manager (GTM), detailed reports, and will be regularly updated to keep you ahead of the game. 
+
+Upgrade your experience with [the updated Mageplaza GA4 version](https://www.mageplaza.com/magento-2-google-analytics-pro/) now!
 
 ## Highlight features
 
-- Support many types of chart as Pie Chart, Line Chart and Bar Chart
-- Objective and detailed reports
-- Easy to understand and analysis
-
+- Compatible with Hyva Theme & API/GraphQL
+- Access comprehensive reports on key store metrics
+- Analyze customer activity for marketing insights and optimization
+- Track Google Ads dynamic remarketing 
+- Integrate Facebook Pixel for campaign conversion tracking 
+- Generate a JSON file with one simple click for easy integration
+- Comply with Google Consent Mode V2 for privacy regulation compliance
 
 ## Documentation
 
-- Installation guide: https://www.mageplaza.com/install-magento-2-extension/
-- Download from our Live site: https://www.mageplaza.com/magento-2-google-analytics-pro/
-- Get Support: https://github.com/mageplaza/magento-2-google-analytics/issues
-- Contribute on Github: https://github.com/mageplaza/magento-2-google-analytics/
-- Changelog: https://www.mageplaza.com/changelog/m2-google-analytics.txt
-- License https://www.mageplaza.com/LICENSE.txt
+- [Installation guide](https://www.mageplaza.com/install-magento-2-extension/) 
+- [Get Support](https://github.com/mageplaza/magento-2-google-analytics/issues) 
+- [Contribute on Github](https://github.com/mageplaza/magento-2-google-analytics/)
+- [Changelog](https://www.mageplaza.com/changelog/m2-google-analytics.txt)
+- [License](https://www.mageplaza.com/LICENSE.txt)
 
 ## FAQs
 
